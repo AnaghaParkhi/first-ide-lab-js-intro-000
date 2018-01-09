@@ -1,1 +1,2 @@
 "Hello World!"
+"I am leatning to code Javascript! so happy!"
