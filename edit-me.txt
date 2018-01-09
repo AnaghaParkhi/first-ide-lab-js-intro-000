@@ -1,3 +1,4 @@
 "Hello World!"
-"I am learning javascript!"
-"I like Flatiron School!"
+"I am learning javascript."
+"I am loving it."
+"I like Flatiron School."
